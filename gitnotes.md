@@ -11,5 +11,3 @@ There are my notes on git.
 
 ### Tracking Changes
 
-
-xxx
