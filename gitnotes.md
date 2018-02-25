@@ -6,6 +6,7 @@ There are my notes on git.
 * `git status` : tells us status of repo
 * `git add`: adds fiels to be tracked 
 * `git commit` : dedicate myseld to a version
+* `git diff` : shows changes not yet tracked (commit). 
 
 ---
 
